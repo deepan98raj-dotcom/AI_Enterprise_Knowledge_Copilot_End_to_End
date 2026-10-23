@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is the annual leave entitlement?",
+    "expected_phrases": ["annual leave", "leave entitlement"]
+  },
+  {
+    "question": "Who approves an expense of INR 30,000?",
+    "expected_phrases": ["INR 30,000", "30,000"]
+  },
+  {
+    "question": "What should I do if my company laptop is stolen?",
+    "expected_phrases": ["stolen laptop", "report the theft"]
+  },
+  {
+    "question": "Compare P1 and P2 security incident response times.",
+    "expected_phrases": ["P1", "P2"]
+  }
+]
